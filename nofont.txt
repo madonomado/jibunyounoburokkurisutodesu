@@ -9,3 +9,12 @@ woff2
 /fonts/
 /webfont/
 /webfonts/
+||googletagmanager.com^
+||googletagsevices.com^
+||gstatic.com^
+||googleapis.com^
+||netdna.bootstrapcdn.com^
+||fontawesome.com^
+||fonts.google.com^
+||analytics.google.com^
+||google-analytics.com^
