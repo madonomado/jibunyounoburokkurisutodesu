@@ -1,0 +1,11 @@
+$font
+$inline-font
+woff
+*.woff|
+woff2
+*.woff2|
+*tff|
+/font/
+/fonts/
+/webfont/
+/webfonts/
