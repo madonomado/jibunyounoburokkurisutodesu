@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: フォントなし
 ! Last modified: 23 Jul 2021 00:00 JST
-! Expires: 999 days (update frequency)
+! Expires: 999999 days (update frequency)
 ! License: CC0 (Public Domain)
 ! Homepage: -------
 ! 
